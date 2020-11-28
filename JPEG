@@ -1,0 +1,4 @@
+from skimage impport io 
+from sklearn cluster importer KMeans
+import numpy as np
+image = io.imread(te
